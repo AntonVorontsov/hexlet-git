@@ -1,1 +1,1 @@
-Hello, Hexlet! How are you?
+N code N pain
